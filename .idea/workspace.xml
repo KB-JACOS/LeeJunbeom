@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/백준/src/신고결과받기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/에디터/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/백준/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/에디터/baekjoon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/백준/baekjoon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/에디터/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/src/Editor.java" afterDir="false" />
-    </list>
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="docs: 폴더 이름 변경" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,12 +118,42 @@
       <updated>1743343304706</updated>
       <workItem from="1743343305702" duration="5245000" />
       <workItem from="1743519530449" duration="2290000" />
-      <workItem from="1743560646823" duration="2999000" />
+      <workItem from="1743560646823" duration="5317000" />
     </task>
+    <task id="LOCAL-00001" summary="solved: programmers_신고-결과-받기">
+      <option name="closed" value="true" />
+      <created>1743579529249</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743579529249</updated>
+    </task>
+    <task id="LOCAL-00002" summary="docs: 폴더 이름 변경">
+      <option name="closed" value="true" />
+      <created>1743579769465</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743579769465</updated>
+    </task>
+    <task id="LOCAL-00003" summary="docs: 폴더 이름 변경">
+      <option name="closed" value="true" />
+      <created>1743579920910</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743579920910</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="solved: programmers_신고-결과-받기" />
+    <MESSAGE value="docs: 폴더 이름 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: 폴더 이름 변경" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
