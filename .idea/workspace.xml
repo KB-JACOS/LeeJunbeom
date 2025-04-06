@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="docs: 폴더 이름 변경" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_11053 - 가장 긴 증가하는 부분수열">
+      <change afterPath="$PROJECT_DIR$/백준/src/자물쇠와열쇠.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +62,8 @@
     "애플리케이션.Longest.executor": "Run",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.가장긴증가하는부분수열.executor": "Run",
-    "애플리케이션.신고결과받기.executor": "Run"
+    "애플리케이션.신고결과받기.executor": "Run",
+    "애플리케이션.자물쇠와열쇠.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -70,7 +74,7 @@
       <recent name="$PROJECT_DIR$/에디터" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.신고결과받기">
+  <component name="RunManager" selected="애플리케이션.자물쇠와열쇠">
     <configuration name="가장긴증가하는부분수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="가장긴증가하는부분수열" />
       <module name="baekjoon" />
@@ -78,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="신고결과받기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="신고결과받기" />
+    <configuration name="자물쇠와열쇠" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자물쇠와열쇠" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,9 +96,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="신고결과받기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="신고결과받기" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.신고결과받기" />
+        <item itemvalue="애플리케이션.자물쇠와열쇠" />
         <item itemvalue="애플리케이션.가장긴증가하는부분수열" />
         <item itemvalue="애플리케이션.Main" />
       </list>
@@ -119,6 +130,7 @@
       <workItem from="1743343305702" duration="5245000" />
       <workItem from="1743519530449" duration="2290000" />
       <workItem from="1743560646823" duration="5317000" />
+      <workItem from="1743733942516" duration="6744000" />
     </task>
     <task id="LOCAL-00001" summary="solved: programmers_신고-결과-받기">
       <option name="closed" value="true" />
@@ -144,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743579920910</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="solved: baekjoon_11053 - 가장 긴 증가하는 부분수열">
+      <option name="closed" value="true" />
+      <created>1743734033961</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743734033961</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +173,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="solved: programmers_신고-결과-받기" />
     <MESSAGE value="docs: 폴더 이름 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: 폴더 이름 변경" />
+    <MESSAGE value="solved: baekjoon_11053 - 가장 긴 증가하는 부분수열" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_11053 - 가장 긴 증가하는 부분수열" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
