@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: programmers - 제곱수의 합">
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_1654 - 랜선 자르기">
+      <change afterPath="$PROJECT_DIR$/백준/src/나이트의이동.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +62,7 @@
     "애플리케이션.Longest.executor": "Run",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.가장긴증가하는부분수열.executor": "Run",
+    "애플리케이션.나이트의이동.executor": "Run",
     "애플리케이션.랜선자르기.executor": "Run",
     "애플리케이션.셔틀버스.executor": "Run",
     "애플리케이션.신고결과받기.executor": "Run",
@@ -76,7 +78,7 @@
       <recent name="$PROJECT_DIR$/에디터" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.랜선자르기">
+  <component name="RunManager" selected="애플리케이션.나이트의이동">
     <configuration name="가장긴증가하는부분수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="가장긴증가하는부분수열" />
       <module name="baekjoon" />
@@ -86,6 +88,13 @@
     </configuration>
     <configuration name="랜선자르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="랜선자르기" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="나이트의이동" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="나이트의이동" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,6 +137,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.나이트의이동" />
         <item itemvalue="애플리케이션.랜선자르기" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.가장긴증가하는부분수열" />
@@ -155,7 +165,7 @@
       <workItem from="1743560646823" duration="5317000" />
       <workItem from="1743733942516" duration="8052000" />
       <workItem from="1744029306917" duration="17002000" />
-      <workItem from="1744270486638" duration="4931000" />
+      <workItem from="1744270486638" duration="9835000" />
     </task>
     <task id="LOCAL-00001" summary="solved: programmers_신고-결과-받기">
       <option name="closed" value="true" />
@@ -213,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744179140236</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="solved: baekjoon_1654 - 랜선 자르기">
+      <option name="closed" value="true" />
+      <created>1744330415892</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744330415892</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,7 +244,8 @@
     <MESSAGE value="solved: programmers - 자물쇠와 열쇠" />
     <MESSAGE value="solved: baekjoon_1699 - 제곱수의 합" />
     <MESSAGE value="solved: programmers - 제곱수의 합" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: programmers - 제곱수의 합" />
+    <MESSAGE value="solved: baekjoon_1654 - 랜선 자르기" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_1654 - 랜선 자르기" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
