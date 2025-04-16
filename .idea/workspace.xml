@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_7562 - 나이트의 이동">
-      <change afterPath="$PROJECT_DIR$/백준/src/종이접기.java" afterDir="false" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_1802 - 종이접기">
+      <change afterPath="$PROJECT_DIR$/백준/src/영어끝말잇기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,35 +43,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/haruma/Desktop/baekjoon&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;애플리케이션.Editor.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Longest.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.가장긴증가하는부분수열.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.나이트의이동.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.랜선자르기.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.셔틀버스.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.신고결과받기.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.자물쇠와열쇠.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.제곱수의합.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.종이접기.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/haruma/Desktop/baekjoon",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Editor.executor": "Run",
+    "애플리케이션.Longest.executor": "Run",
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.가장긴증가하는부분수열.executor": "Run",
+    "애플리케이션.나이트의이동.executor": "Run",
+    "애플리케이션.랜선자르기.executor": "Run",
+    "애플리케이션.셔틀버스.executor": "Run",
+    "애플리케이션.신고결과받기.executor": "Run",
+    "애플리케이션.영어끝말잇기.executor": "Run",
+    "애플리케이션.자물쇠와열쇠.executor": "Run",
+    "애플리케이션.제곱수의합.executor": "Run",
+    "애플리케이션.종이접기.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -80,9 +81,16 @@
       <recent name="$PROJECT_DIR$/에디터" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Editor">
+  <component name="RunManager" selected="애플리케이션.영어끝말잇기">
     <configuration name="가장긴증가하는부분수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="가장긴증가하는부분수열" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="영어끝말잇기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="영어끝말잇기" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -160,6 +168,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.영어끝말잇기" />
         <item itemvalue="애플리케이션.Editor" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.가장긴증가하는부분수열" />
@@ -190,6 +199,8 @@
       <workItem from="1744270486638" duration="12650000" />
       <workItem from="1744631425943" duration="4214000" />
       <workItem from="1744699488149" duration="987000" />
+      <workItem from="1744710483775" duration="333000" />
+      <workItem from="1744714268896" duration="2739000" />
     </task>
     <task id="LOCAL-00001" summary="solved: programmers_신고-결과-받기">
       <option name="closed" value="true" />
@@ -263,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744338800126</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="solved: baekjoon_1802 - 종이접기">
+      <option name="closed" value="true" />
+      <created>1744710558799</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1744710558799</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,7 +297,8 @@
     <MESSAGE value="solved: programmers - 제곱수의 합" />
     <MESSAGE value="solved: baekjoon_1654 - 랜선 자르기" />
     <MESSAGE value="solved: baekjoon_7562 - 나이트의 이동" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_7562 - 나이트의 이동" />
+    <MESSAGE value="solved: baekjoon_1802 - 종이접기" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_1802 - 종이접기" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
