@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_1802 - 종이접기">
-      <change afterPath="$PROJECT_DIR$/백준/src/영어끝말잇기.java" afterDir="false" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: programmers - 영어 끝말잇기">
+      <change afterPath="$PROJECT_DIR$/백준/src/소수만들기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/src/완주하지못한선수.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +67,10 @@
     "애플리케이션.나이트의이동.executor": "Run",
     "애플리케이션.랜선자르기.executor": "Run",
     "애플리케이션.셔틀버스.executor": "Run",
+    "애플리케이션.소수만들기.executor": "Run",
     "애플리케이션.신고결과받기.executor": "Run",
     "애플리케이션.영어끝말잇기.executor": "Run",
+    "애플리케이션.완주하지못한선수.executor": "Run",
     "애플리케이션.자물쇠와열쇠.executor": "Run",
     "애플리케이션.제곱수의합.executor": "Run",
     "애플리케이션.종이접기.executor": "Run"
@@ -81,7 +84,7 @@
       <recent name="$PROJECT_DIR$/에디터" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.영어끝말잇기">
+  <component name="RunManager" selected="애플리케이션.완주하지못한선수">
     <configuration name="가장긴증가하는부분수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="가장긴증가하는부분수열" />
       <module name="baekjoon" />
@@ -89,8 +92,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="영어끝말잇기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="영어끝말잇기" />
+    <configuration name="소수만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="소수만들기" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="완주하지못한선수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="완주하지못한선수" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,6 +115,20 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="신고결과받기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="신고결과받기" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="영어끝말잇기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="영어끝말잇기" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -159,16 +183,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="신고결과받기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="신고결과받기" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.영어끝말잇기" />
+        <item itemvalue="애플리케이션.완주하지못한선수" />
+        <item itemvalue="애플리케이션.소수만들기" />
         <item itemvalue="애플리케이션.Editor" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.가장긴증가하는부분수열" />
@@ -200,7 +218,8 @@
       <workItem from="1744631425943" duration="4214000" />
       <workItem from="1744699488149" duration="987000" />
       <workItem from="1744710483775" duration="333000" />
-      <workItem from="1744714268896" duration="2739000" />
+      <workItem from="1744714268896" duration="3009000" />
+      <workItem from="1744950452211" duration="7982000" />
     </task>
     <task id="LOCAL-00001" summary="solved: programmers_신고-결과-받기">
       <option name="closed" value="true" />
@@ -282,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744710558799</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="solved: programmers - 영어 끝말잇기">
+      <option name="closed" value="true" />
+      <created>1744764455596</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1744764455596</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,7 +325,8 @@
     <MESSAGE value="solved: baekjoon_1654 - 랜선 자르기" />
     <MESSAGE value="solved: baekjoon_7562 - 나이트의 이동" />
     <MESSAGE value="solved: baekjoon_1802 - 종이접기" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_1802 - 종이접기" />
+    <MESSAGE value="solved: programmers - 영어 끝말잇기" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: programmers - 영어 끝말잇기" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
