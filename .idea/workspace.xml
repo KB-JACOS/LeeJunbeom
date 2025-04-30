@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: programmers - 단어 변환">
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_2167 - 2차원 배열의 합">
       <change afterPath="$PROJECT_DIR$/백준/src/CoinChange.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/백준/src/KeyAndRooms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/src/TwoDegreeArraySum.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/백준/src/가장먼노드.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/src/구준표의조약돌.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/백준/src/네트워크.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -71,6 +71,7 @@
     "애플리케이션.TwoDegreeArraySum.executor": "Run",
     "애플리케이션.가장긴증가하는부분수열.executor": "Run",
     "애플리케이션.가장먼노드.executor": "Run",
+    "애플리케이션.구준표의조약돌.executor": "Run",
     "애플리케이션.나이트의이동.executor": "Run",
     "애플리케이션.단어변환.executor": "Run",
     "애플리케이션.랜선자르기.executor": "Run",
@@ -94,9 +95,16 @@
       <recent name="$PROJECT_DIR$/에디터" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.TwoDegreeArraySum">
+  <component name="RunManager" selected="애플리케이션.구준표의조약돌">
     <configuration name="단어변환" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="단어변환" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="구준표의조약돌" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="구준표의조약돌" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,6 +126,48 @@
     </configuration>
     <configuration name="TwoDegreeArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TwoDegreeArraySum" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="셔틀버스" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="셔틀버스" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="제곱수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="제곱수의합" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="자물쇠와열쇠" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자물쇠와열쇠" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="소수만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="소수만들기" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="완주하지못한선수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="완주하지못한선수" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="신고결과받기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="신고결과받기" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -179,50 +229,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="셔틀버스" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="셔틀버스" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="제곱수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="제곱수의합" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="자물쇠와열쇠" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자물쇠와열쇠" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="소수만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="소수만들기" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="완주하지못한선수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="완주하지못한선수" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="신고결과받기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="신고결과받기" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.구준표의조약돌" />
         <item itemvalue="애플리케이션.TwoDegreeArraySum" />
         <item itemvalue="애플리케이션.단어변환" />
         <item itemvalue="애플리케이션.CoinChange" />
@@ -261,7 +270,8 @@
       <workItem from="1745312308891" duration="3150000" />
       <workItem from="1745396818757" duration="132000" />
       <workItem from="1745544300677" duration="13256000" />
-      <workItem from="1745801353745" duration="3807000" />
+      <workItem from="1745801353745" duration="5587000" />
+      <workItem from="1745921502588" duration="5178000" />
     </task>
     <task id="LOCAL-00001" summary="solved: programmers_신고-결과-받기">
       <option name="closed" value="true" />
@@ -391,7 +401,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745564875727</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="solved: baekjoon_2167 - 2차원 배열의 합">
+      <option name="closed" value="true" />
+      <created>1745893237111</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1745893237111</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +431,8 @@
     <MESSAGE value="solved: baekjoon_2178 - 미로 탐색" />
     <MESSAGE value="solved: programmers - 이분 그래프" />
     <MESSAGE value="solved: programmers - 단어 변환" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: programmers - 단어 변환" />
+    <MESSAGE value="solved: baekjoon_2167 - 2차원 배열의 합" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_2167 - 2차원 배열의 합" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
