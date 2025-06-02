@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: programmers - 미로 탈출">
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: backjoon_1074 - Z">
       <change afterPath="$PROJECT_DIR$/백준/src/CoinChange.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/백준/src/KeyAndRooms.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/백준/src/RGB거리.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/src/Z.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/백준/src/감염된폴더.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/백준/src/거리두기확인하기.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/백준/src/이진트리의최대깊이.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/백준/src/이진트리의최소공통조상.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/백준/src/전력망을둘로나누기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/src/회사문화1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/백준/src/응급자최단거리.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/src/응급자최단거리.java" afterDir="false" />
     </list>
@@ -52,57 +52,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.RGB거리.executor": "Run",
-    "Application.Z.executor": "Run",
-    "Application.감염된폴더.executor": "Run",
-    "Application.이진트리의최대깊이.executor": "Run",
-    "Application.이진트리의최소공통조상.executor": "Run",
-    "Application.전력망을둘로나누기.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/haruma/Desktop/baekjoon",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.CoinChange.executor": "Run",
-    "애플리케이션.Editor.executor": "Run",
-    "애플리케이션.KeyAndRooms.executor": "Run",
-    "애플리케이션.Longest.executor": "Run",
-    "애플리케이션.Main.executor": "Run",
-    "애플리케이션.TwoDegreeArraySum.executor": "Run",
-    "애플리케이션.가장긴증가하는부분수열.executor": "Run",
-    "애플리케이션.가장먼노드.executor": "Run",
-    "애플리케이션.거리두기확인하기.executor": "Run",
-    "애플리케이션.괄호제거.executor": "Run",
-    "애플리케이션.구준표의조약돌.executor": "Run",
-    "애플리케이션.나이트의이동.executor": "Run",
-    "애플리케이션.단어변환.executor": "Run",
-    "애플리케이션.랜선자르기.executor": "Run",
-    "애플리케이션.미로탈출.executor": "Run",
-    "애플리케이션.미로탐색.executor": "Run",
-    "애플리케이션.보물지도.executor": "Run",
-    "애플리케이션.셔틀버스.executor": "Run",
-    "애플리케이션.소수만들기.executor": "Run",
-    "애플리케이션.신고결과받기.executor": "Run",
-    "애플리케이션.영어끝말잇기.executor": "Run",
-    "애플리케이션.완주하지못한선수.executor": "Run",
-    "애플리케이션.응급자최단거리.executor": "Run",
-    "애플리케이션.이분그래프.executor": "Run",
-    "애플리케이션.자물쇠와열쇠.executor": "Run",
-    "애플리케이션.제곱수의합.executor": "Run",
-    "애플리케이션.종이접기.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.RGB거리.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Z.executor&quot;: &quot;Run&quot;,
+    &quot;Application.감염된폴더.executor&quot;: &quot;Run&quot;,
+    &quot;Application.이진트리의최대깊이.executor&quot;: &quot;Run&quot;,
+    &quot;Application.이진트리의최소공통조상.executor&quot;: &quot;Run&quot;,
+    &quot;Application.전력망을둘로나누기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.회사문화1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/haruma/Desktop/baekjoon&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.CoinChange.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Editor.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.KeyAndRooms.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Longest.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.TwoDegreeArraySum.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.가장긴증가하는부분수열.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.가장먼노드.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.거리두기확인하기.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.괄호제거.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.구준표의조약돌.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.나이트의이동.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.단어변환.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.랜선자르기.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.미로탈출.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.미로탐색.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.보물지도.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.셔틀버스.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.소수만들기.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.신고결과받기.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.영어끝말잇기.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.완주하지못한선수.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.응급자최단거리.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.이분그래프.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.자물쇠와열쇠.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.제곱수의합.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.종이접기.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -111,9 +112,16 @@
       <recent name="$PROJECT_DIR$/에디터" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Z">
+  <component name="RunManager" selected="Application.회사문화1">
     <configuration name="감염된폴더" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="감염된폴더" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="회사문화1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="회사문화1" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,29 +141,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="괄호제거" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="괄호제거" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="종이접기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="종이접기" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="응급자최단거리" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="응급자최단거리" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="미로탈출" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="미로탈출" />
+    <configuration name="가장먼노드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="가장먼노드" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -163,6 +150,13 @@
     </configuration>
     <configuration name="보물지도" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="보물지도" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="이진트리의최대깊이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="이진트리의최대깊이" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -189,22 +183,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="가장먼노드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="가장먼노드" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="나이트의이동" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="나이트의이동" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="이진트리의최대깊이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="이진트리의최대깊이" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -217,8 +197,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="전력망을둘로나누기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="전력망을둘로나누기" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="구준표의조약돌" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="구준표의조약돌" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="괄호제거" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="괄호제거" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -245,13 +239,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="전력망을둘로나누기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="전력망을둘로나누기" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="자물쇠와열쇠" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="자물쇠와열쇠" />
       <module name="baekjoon" />
@@ -261,6 +248,13 @@
     </configuration>
     <configuration name="소수만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="소수만들기" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="응급자최단거리" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="응급자최단거리" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -287,8 +281,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="종이접기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="종이접기" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="미로탈출" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="미로탈출" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.회사문화1" />
         <item itemvalue="Application.Z" />
         <item itemvalue="Application.감염된폴더" />
         <item itemvalue="Application.RGB거리" />
@@ -335,7 +344,13 @@
       <workItem from="1747039563526" duration="70000" />
       <workItem from="1747123724394" duration="6497000" />
       <workItem from="1747270366547" duration="13948000" />
-      <workItem from="1747732771554" duration="3075000" />
+      <workItem from="1747732771554" duration="4169000" />
+      <workItem from="1747906035551" duration="1882000" />
+      <workItem from="1747964980832" duration="7384000" />
+      <workItem from="1748479426970" duration="2453000" />
+      <workItem from="1748506175840" duration="1355000" />
+      <workItem from="1748573422425" duration="1527000" />
+      <workItem from="1748592871501" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="solved: programmers_신고-결과-받기">
       <option name="closed" value="true" />
@@ -529,7 +544,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747039630950</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="solved: backjoon_1074 - Z">
+      <option name="closed" value="true" />
+      <created>1747736160099</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1747736160099</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,7 +582,8 @@
     <MESSAGE value="solved: programmers - 보물 지도" />
     <MESSAGE value="solved: programmers - 응급자 최단거리" />
     <MESSAGE value="solved: programmers - 미로 탈출" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: programmers - 미로 탈출" />
+    <MESSAGE value="solved: backjoon_1074 - Z" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: backjoon_1074 - Z" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
