@@ -9,8 +9,6 @@ public class 단속카메라 {
 			int min = Integer.MAX_VALUE;
 			for (int[] route : routes) {
 				if(min < route[0]){
-					System.out.println("min = " + min);
-					System.out.println("route[0] = " + route[0]);
 					cnt++;
 					min = route[1];
 					continue;
@@ -18,7 +16,6 @@ public class 단속카메라 {
 				min = Math.min(min, route[1]);
 			}
 			cnt++;
-			System.out.println("cnt = " + cnt);
 			return cnt;
 		}
 	}
