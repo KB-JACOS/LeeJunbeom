@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon - 땅따먹기">
-      <change afterPath="$PROJECT_DIR$/백준/src/사라지는발판.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/src/fourSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/src/fourSquare.java" afterDir="false" />
-    </list>
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon - 사라지는 발판" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -804,14 +800,21 @@
       <option name="project" value="LOCAL" />
       <updated>1758818933414</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="solved: baekjoon - 사라지는 발판">
+      <option name="closed" value="true" />
+      <created>1759985169025</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1759985169025</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved: programmers - 영어 끝말잇기" />
     <MESSAGE value="solved: programmers - 소수 만들기" />
     <MESSAGE value="solved: programmers - 완주하지 못한 선수" />
     <MESSAGE value="solved: baekjoon_2178 - 미로 탐색" />
@@ -836,7 +839,8 @@
     <MESSAGE value="solved: programmers - 단속카메라" />
     <MESSAGE value="solved: programmers - 산모양타일링" />
     <MESSAGE value="solved: baekjoon - 땅따먹기" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon - 땅따먹기" />
+    <MESSAGE value="solved: baekjoon - 사라지는 발판" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon - 사라지는 발판" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
