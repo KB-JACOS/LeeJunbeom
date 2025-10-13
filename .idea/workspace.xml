@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon - 로봇조종하기">
-      <change afterPath="$PROJECT_DIR$/백준/src/치킨배달하기.java" afterDir="false" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon - 치킨 배달">
+      <change afterPath="$PROJECT_DIR$/백준/src/평범한배낭.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +77,7 @@
     "Application.타겟넘버.executor": "Run",
     "Application.태어난김에세계일주.executor": "Run",
     "Application.토마토.executor": "Run",
+    "Application.평범한배낭.executor": "Run",
     "Application.폴짝폴짝.executor": "Run",
     "Application.합승택시요금.executor": "Run",
     "Application.회사문화1.executor": "Run",
@@ -134,7 +135,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.치킨배달하기">
+  <component name="RunManager" selected="Application.평범한배낭">
     <configuration name="경주로건설" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="경주로건설" />
       <module name="baekjoon" />
@@ -151,6 +152,13 @@
     </configuration>
     <configuration name="치킨배달하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="치킨배달하기" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="평범한배낭" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="평범한배낭" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -445,6 +453,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.평범한배낭" />
         <item itemvalue="Application.치킨배달하기" />
         <item itemvalue="Application.사라지는발판" />
         <item itemvalue="Application.경주로건설" />
@@ -828,14 +837,21 @@
       <option name="project" value="LOCAL" />
       <updated>1759985241013</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="solved: baekjoon - 치킨 배달">
+      <option name="closed" value="true" />
+      <created>1760205084194</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1760205084194</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved: programmers - 완주하지 못한 선수" />
     <MESSAGE value="solved: baekjoon_2178 - 미로 탐색" />
     <MESSAGE value="solved: programmers - 이분 그래프" />
     <MESSAGE value="solved: programmers - 단어 변환" />
@@ -860,7 +876,8 @@
     <MESSAGE value="solved: baekjoon - 땅따먹기" />
     <MESSAGE value="solved: baekjoon - 사라지는 발판" />
     <MESSAGE value="solved: baekjoon - 로봇조종하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon - 로봇조종하기" />
+    <MESSAGE value="solved: baekjoon - 치킨 배달" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon - 치킨 배달" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
