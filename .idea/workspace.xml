@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon - 평범한 배낭" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon - 알약">
+      <change afterPath="$PROJECT_DIR$/백준/src/경사로.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +51,7 @@
     "Application.RGB거리.executor": "Run",
     "Application.Z.executor": "Run",
     "Application.감염된폴더.executor": "Run",
+    "Application.경사로.executor": "Run",
     "Application.경주로건설.executor": "Run",
     "Application.단속카메라.executor": "Run",
     "Application.도서관.executor": "Run",
@@ -132,7 +136,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.평범한배낭">
+  <component name="RunManager" selected="Application.경사로">
     <configuration name="경주로건설" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="경주로건설" />
       <module name="baekjoon" />
@@ -140,22 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="사라지는발판" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="사라지는발판" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="치킨배달하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="치킨배달하기" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="평범한배낭" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="평범한배낭" />
+    <configuration name="경사로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="경사로" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -163,41 +153,6 @@
     </configuration>
     <configuration name="줄임말_20191번" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="줄임말_20191번" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="보물지도" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="보물지도" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="이분그래프" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="이분그래프" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="이진트리의최대깊이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="이진트리의최대깊이" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="영어끝말잇기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="영어끝말잇기" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="구준표의조약돌" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="구준표의조약돌" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -273,6 +228,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="사라지는발판" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="사라지는발판" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="괄호제거" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="괄호제거" />
       <module name="baekjoon" />
@@ -338,6 +300,13 @@
     </configuration>
     <configuration name="연구소" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="연구소" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="치킨배달하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="치킨배달하기" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -413,6 +382,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="평범한배낭" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="평범한배낭" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="종이접기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="종이접기" />
       <module name="baekjoon" />
@@ -448,11 +424,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="보물지도" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="보물지도" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="이분그래프" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="이분그래프" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="이진트리의최대깊이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="이진트리의최대깊이" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="영어끝말잇기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="영어끝말잇기" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="구준표의조약돌" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="구준표의조약돌" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.평범한배낭" />
-        <item itemvalue="Application.치킨배달하기" />
-        <item itemvalue="Application.사라지는발판" />
+        <item itemvalue="Application.경사로" />
         <item itemvalue="Application.경주로건설" />
         <item itemvalue="Application.줄임말_20191번" />
       </list>
@@ -529,6 +538,7 @@
       <workItem from="1757780913347" duration="1645000" />
       <workItem from="1757928603095" duration="12059000" />
       <workItem from="1758728782705" duration="15469000" />
+      <workItem from="1760422542591" duration="6037000" />
     </task>
     <task id="LOCAL-00001" summary="solved: programmers_신고-결과-받기">
       <option name="closed" value="true" />
@@ -850,14 +860,21 @@
       <option name="project" value="LOCAL" />
       <updated>1760335088905</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="solved: baekjoon - 알약">
+      <option name="closed" value="true" />
+      <created>1760422584375</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1760422584375</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved: programmers - 이분 그래프" />
     <MESSAGE value="solved: programmers - 단어 변환" />
     <MESSAGE value="solved: baekjoon_2167 - 2차원 배열의 합" />
     <MESSAGE value="solved: baekjoon_15831 - 준표의 조약돌" />
@@ -882,7 +899,8 @@
     <MESSAGE value="solved: baekjoon - 로봇조종하기" />
     <MESSAGE value="solved: baekjoon - 치킨 배달" />
     <MESSAGE value="solved: baekjoon - 평범한 배낭" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon - 평범한 배낭" />
+    <MESSAGE value="solved: baekjoon - 알약" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon - 알약" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
