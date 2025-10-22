@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon - 두 원">
-      <change afterPath="$PROJECT_DIR$/백준/src/A와B.java" afterDir="false" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon - A 와 B">
+      <change afterPath="$PROJECT_DIR$/백준/src/정수삼각형.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,9 +140,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A와B">
+  <component name="RunManager" selected="Application.정수삼각형">
     <configuration name="경주로건설" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="경주로건설" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="정수삼각형" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="정수삼각형" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -486,6 +493,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.정수삼각형" />
         <item itemvalue="Application.A와B" />
         <item itemvalue="Application.경주로건설" />
         <item itemvalue="Application.줄임말_20191번" />
@@ -902,14 +910,21 @@
       <option name="project" value="LOCAL" />
       <updated>1760595562164</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="solved: baekjoon - A 와 B">
+      <option name="closed" value="true" />
+      <created>1760939628843</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1760939628843</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved: baekjoon_15831 - 준표의 조약돌" />
     <MESSAGE value="solved: programmers - 가장 먼 노드" />
     <MESSAGE value="solved: programmers - 네트워크" />
     <MESSAGE value="solved: baekjoon_2800 - 괄호 제거" />
@@ -934,7 +949,8 @@
     <MESSAGE value="solved: baekjoon - 알약" />
     <MESSAGE value="solved: baekjoon - 경사로" />
     <MESSAGE value="solved: baekjoon - 두 원" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon - 두 원" />
+    <MESSAGE value="solved: baekjoon - A 와 B" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon - A 와 B" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
