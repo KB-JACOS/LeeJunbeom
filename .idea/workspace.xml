@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon - A 와 B">
-      <change afterPath="$PROJECT_DIR$/백준/src/정수삼각형.java" afterDir="false" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon - 정수삼각형">
+      <change afterPath="$PROJECT_DIR$/백준/src/세용액.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +66,7 @@
     "Application.사라지는발판.executor": "Run",
     "Application.산모양타일링.executor": "Run",
     "Application.선수과목.executor": "Run",
+    "Application.세용액.executor": "Run",
     "Application.소수찾기.executor": "Run",
     "Application.연구소.executor": "Run",
     "Application.이진트리의최대깊이.executor": "Run",
@@ -74,6 +75,7 @@
     "Application.저울.executor": "Run",
     "Application.전깃줄.executor": "Run",
     "Application.전력망을둘로나누기.executor": "Run",
+    "Application.정수삼각형.executor": "Run",
     "Application.줄임말_20191번.executor": "Run",
     "Application.치킨배달하기.executor": "Run",
     "Application.키순서.executor": "Run",
@@ -140,7 +142,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.정수삼각형">
+  <component name="RunManager" selected="Application.세용액">
     <configuration name="경주로건설" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="경주로건설" />
       <module name="baekjoon" />
@@ -150,6 +152,13 @@
     </configuration>
     <configuration name="정수삼각형" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="정수삼각형" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="세용액" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="세용액" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -493,6 +502,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.세용액" />
         <item itemvalue="Application.정수삼각형" />
         <item itemvalue="Application.A와B" />
         <item itemvalue="Application.경주로건설" />
@@ -918,14 +928,21 @@
       <option name="project" value="LOCAL" />
       <updated>1760939628843</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="solved: baekjoon - 정수삼각형">
+      <option name="closed" value="true" />
+      <created>1761158380136</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1761158380136</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved: programmers - 가장 먼 노드" />
     <MESSAGE value="solved: programmers - 네트워크" />
     <MESSAGE value="solved: baekjoon_2800 - 괄호 제거" />
     <MESSAGE value="solved: programmers - 보물 지도" />
@@ -950,7 +967,8 @@
     <MESSAGE value="solved: baekjoon - 경사로" />
     <MESSAGE value="solved: baekjoon - 두 원" />
     <MESSAGE value="solved: baekjoon - A 와 B" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon - A 와 B" />
+    <MESSAGE value="solved: baekjoon - 정수삼각형" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon - 정수삼각형" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
