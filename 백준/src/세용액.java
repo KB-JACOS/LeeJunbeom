@@ -45,14 +45,6 @@ public class 세용액 {
 						b = arr[j];
 						c = arr[index - 1];
 					}
-				}if (index + 1 < N) {
-					long total = sum + arr[index + 1];
-					if (Math.abs(total) < Math.abs(min)) {
-						min = Math.abs(total);
-						a = arr[i];
-						b = arr[j];
-						c = arr[index + 1];
-					}
 				}
 			}
 		}
