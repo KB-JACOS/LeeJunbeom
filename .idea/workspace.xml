@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="refactor: baekjoon - 세 용액">
-      <change afterPath="$PROJECT_DIR$/백준/src/빗물.java" afterDir="false" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="feat: baekjoon - 모양정돈">
+      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_9881.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.A와B.executor": "Run",
+    "Application.BOJ_9881.executor": "Run",
     "Application.ListOfUniqueNumbers.executor": "Run",
     "Application.NetworkDelayTime.executor": "Run",
     "Application.PathWithMaximumProbability.executor": "Run",
@@ -143,14 +144,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.빗물">
-    <configuration name="경주로건설" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="경주로건설" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_9881">
     <configuration name="정수삼각형" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="정수삼각형" />
       <module name="baekjoon" />
@@ -174,6 +168,13 @@
     </configuration>
     <configuration name="A와B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A와B" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_9881" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_9881" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -503,11 +504,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_9881" />
         <item itemvalue="Application.빗물" />
         <item itemvalue="Application.세용액" />
         <item itemvalue="Application.정수삼각형" />
         <item itemvalue="Application.A와B" />
-        <item itemvalue="Application.경주로건설" />
       </list>
     </recent_temporary>
   </component>
@@ -953,15 +954,29 @@
       <option name="project" value="LOCAL" />
       <updated>1761197924199</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="refactor: baekjoon - 빗물">
+      <option name="closed" value="true" />
+      <created>1761504352279</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1761504352279</updated>
+    </task>
+    <task id="LOCAL-00049" summary="feat: baekjoon - 모양정돈">
+      <option name="closed" value="true" />
+      <created>1761774739706</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1761774739706</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved: programmers - 보물 지도" />
-    <MESSAGE value="solved: programmers - 응급자 최단거리" />
     <MESSAGE value="solved: programmers - 미로 탈출" />
     <MESSAGE value="solved: backjoon_1074 - Z" />
     <MESSAGE value="solved: backjoon_1149 - RGB 거리" />
@@ -985,7 +1000,9 @@
     <MESSAGE value="solved: baekjoon - 정수삼각형" />
     <MESSAGE value="solved: baekjoon - 세 용액" />
     <MESSAGE value="refactor: baekjoon - 세 용액" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: baekjoon - 세 용액" />
+    <MESSAGE value="refactor: baekjoon - 빗물" />
+    <MESSAGE value="feat: baekjoon - 모양정돈" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: baekjoon - 모양정돈" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
