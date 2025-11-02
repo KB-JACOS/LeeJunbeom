@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="feat: baekjoon - 모양정돈">
-      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_9881.java" afterDir="false" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="feat: baekjoon_9881 - Ski Course Design">
+      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_16928.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.A와B.executor": "Run",
+    "Application.BOJ_16928.executor": "Run",
     "Application.BOJ_9881.executor": "Run",
     "Application.ListOfUniqueNumbers.executor": "Run",
     "Application.NetworkDelayTime.executor": "Run",
@@ -144,7 +145,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_9881">
+  <component name="RunManager" selected="Application.BOJ_16928">
     <configuration name="정수삼각형" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="정수삼각형" />
       <module name="baekjoon" />
@@ -166,8 +167,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A와B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A와B" />
+    <configuration name="BOJ_16928" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_16928" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -504,11 +505,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_16928" />
         <item itemvalue="Application.BOJ_9881" />
         <item itemvalue="Application.빗물" />
         <item itemvalue="Application.세용액" />
         <item itemvalue="Application.정수삼각형" />
-        <item itemvalue="Application.A와B" />
       </list>
     </recent_temporary>
   </component>
@@ -577,14 +578,6 @@
       <workItem from="1758728782705" duration="15469000" />
       <workItem from="1760422542591" duration="13843000" />
       <workItem from="1760899417518" duration="393000" />
-    </task>
-    <task id="LOCAL-00001" summary="solved: programmers_신고-결과-받기">
-      <option name="closed" value="true" />
-      <created>1743579529249</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1743579529249</updated>
     </task>
     <task id="LOCAL-00002" summary="docs: 폴더 이름 변경">
       <option name="closed" value="true" />
@@ -970,14 +963,21 @@
       <option name="project" value="LOCAL" />
       <updated>1761774739706</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="feat: baekjoon_9881 - Ski Course Design">
+      <option name="closed" value="true" />
+      <created>1761774763632</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1761774763632</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved: programmers - 미로 탈출" />
     <MESSAGE value="solved: backjoon_1074 - Z" />
     <MESSAGE value="solved: backjoon_1149 - RGB 거리" />
     <MESSAGE value="solved: backjoon_13144 - List of unique numbers" />
@@ -1002,7 +1002,8 @@
     <MESSAGE value="refactor: baekjoon - 세 용액" />
     <MESSAGE value="refactor: baekjoon - 빗물" />
     <MESSAGE value="feat: baekjoon - 모양정돈" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: baekjoon - 모양정돈" />
+    <MESSAGE value="feat: baekjoon_9881 - Ski Course Design" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: baekjoon_9881 - Ski Course Design" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
