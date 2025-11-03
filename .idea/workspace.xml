@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="feat: baekjoon_16928 - 뱀과 사다리 게임">
-      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_11650.java" afterDir="false" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="feat: baekjoon_11650 - 좌표 정렬하기">
+      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_4195.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,7 @@
     "Application.A와B.executor": "Run",
     "Application.BOJ_11650.executor": "Run",
     "Application.BOJ_16928.executor": "Run",
+    "Application.BOJ_4195.executor": "Run",
     "Application.BOJ_9881.executor": "Run",
     "Application.ListOfUniqueNumbers.executor": "Run",
     "Application.NetworkDelayTime.executor": "Run",
@@ -145,14 +147,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_11650">
-    <configuration name="세용액" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="세용액" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_4195">
     <configuration name="빗물" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="빗물" />
       <module name="baekjoon" />
@@ -169,6 +164,13 @@
     </configuration>
     <configuration name="BOJ_16928" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ_16928" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_4195" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_4195" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -505,11 +507,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_4195" />
         <item itemvalue="Application.BOJ_11650" />
         <item itemvalue="Application.BOJ_16928" />
         <item itemvalue="Application.BOJ_9881" />
         <item itemvalue="Application.빗물" />
-        <item itemvalue="Application.세용액" />
       </list>
     </recent_temporary>
   </component>
@@ -578,14 +580,6 @@
       <workItem from="1758728782705" duration="15469000" />
       <workItem from="1760422542591" duration="13843000" />
       <workItem from="1760899417518" duration="393000" />
-    </task>
-    <task id="LOCAL-00003" summary="docs: 폴더 이름 변경">
-      <option name="closed" value="true" />
-      <created>1743579920910</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1743579920910</updated>
     </task>
     <task id="LOCAL-00004" summary="solved: baekjoon_11053 - 가장 긴 증가하는 부분수열">
       <option name="closed" value="true" />
@@ -971,14 +965,21 @@
       <option name="project" value="LOCAL" />
       <updated>1762102244066</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="feat: baekjoon_11650 - 좌표 정렬하기">
+      <option name="closed" value="true" />
+      <created>1762102618937</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1762102618937</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved: backjoon_1149 - RGB 거리" />
     <MESSAGE value="solved: backjoon_13144 - List of unique numbers" />
     <MESSAGE value="solved: backjoon_7576 - 토마토" />
     <MESSAGE value="solved: 밀린 문제 올리기" />
@@ -1003,7 +1004,8 @@
     <MESSAGE value="feat: baekjoon - 모양정돈" />
     <MESSAGE value="feat: baekjoon_9881 - Ski Course Design" />
     <MESSAGE value="feat: baekjoon_16928 - 뱀과 사다리 게임" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: baekjoon_16928 - 뱀과 사다리 게임" />
+    <MESSAGE value="feat: baekjoon_11650 - 좌표 정렬하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: baekjoon_11650 - 좌표 정렬하기" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
