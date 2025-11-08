@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="feat: baekjoon_11650 - 좌표 정렬하기">
-      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_4195.java" afterDir="false" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_4195 - 친구 네트워크">
+      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_1655.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,7 @@
   "keyToString": {
     "Application.A와B.executor": "Run",
     "Application.BOJ_11650.executor": "Run",
+    "Application.BOJ_1655.executor": "Run",
     "Application.BOJ_16928.executor": "Run",
     "Application.BOJ_4195.executor": "Run",
     "Application.BOJ_9881.executor": "Run",
@@ -147,16 +148,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_4195">
-    <configuration name="빗물" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="빗물" />
+  <component name="RunManager" selected="Application.BOJ_1655">
+    <configuration name="BOJ_11650" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_11650" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_11650" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_11650" />
+    <configuration name="BOJ_1655" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_1655" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -507,11 +508,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_1655" />
         <item itemvalue="Application.BOJ_4195" />
         <item itemvalue="Application.BOJ_11650" />
         <item itemvalue="Application.BOJ_16928" />
         <item itemvalue="Application.BOJ_9881" />
-        <item itemvalue="Application.빗물" />
       </list>
     </recent_temporary>
   </component>
@@ -580,14 +581,6 @@
       <workItem from="1758728782705" duration="15469000" />
       <workItem from="1760422542591" duration="13843000" />
       <workItem from="1760899417518" duration="393000" />
-    </task>
-    <task id="LOCAL-00004" summary="solved: baekjoon_11053 - 가장 긴 증가하는 부분수열">
-      <option name="closed" value="true" />
-      <created>1743734033961</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1743734033961</updated>
     </task>
     <task id="LOCAL-00005" summary="solved: programmers - 자물쇠와 열쇠">
       <option name="closed" value="true" />
@@ -973,14 +966,21 @@
       <option name="project" value="LOCAL" />
       <updated>1762102618937</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="solved: baekjoon_4195 - 친구 네트워크">
+      <option name="closed" value="true" />
+      <created>1762193513903</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1762193513903</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved: backjoon_13144 - List of unique numbers" />
     <MESSAGE value="solved: backjoon_7576 - 토마토" />
     <MESSAGE value="solved: 밀린 문제 올리기" />
     <MESSAGE value="solved: baekjoon - 20191 줄임말" />
@@ -1005,7 +1005,8 @@
     <MESSAGE value="feat: baekjoon_9881 - Ski Course Design" />
     <MESSAGE value="feat: baekjoon_16928 - 뱀과 사다리 게임" />
     <MESSAGE value="feat: baekjoon_11650 - 좌표 정렬하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: baekjoon_11650 - 좌표 정렬하기" />
+    <MESSAGE value="solved: baekjoon_4195 - 친구 네트워크" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_4195 - 친구 네트워크" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
