@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_4195 - 친구 네트워크">
-      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_1655.java" afterDir="false" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_1655 - 가운데를 말해요">
+      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_4485.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "Application.BOJ_1655.executor": "Run",
     "Application.BOJ_16928.executor": "Run",
     "Application.BOJ_4195.executor": "Run",
+    "Application.BOJ_4485.executor": "Run",
     "Application.BOJ_9881.executor": "Run",
     "Application.ListOfUniqueNumbers.executor": "Run",
     "Application.NetworkDelayTime.executor": "Run",
@@ -148,7 +149,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_1655">
+  <component name="RunManager" selected="Application.BOJ_4485">
     <configuration name="BOJ_11650" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ_11650" />
       <module name="baekjoon" />
@@ -177,71 +178,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_9881" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_9881" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="단속카메라" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="단속카메라" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="응급자최단거리" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="응급자최단거리" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="경사로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="경사로" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="셔틀버스" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="셔틀버스" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="완주하지못한선수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="완주하지못한선수" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="땅따먹기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="땅따먹기" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="전력망을둘로나누기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="전력망을둘로나누기" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="이진트리의최소공통조상" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="이진트리의최소공통조상" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="연구소" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="연구소" />
+    <configuration name="BOJ_4485" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_4485" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -317,6 +255,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="응급자최단거리" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="응급자최단거리" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="봉인된주문" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="봉인된주문" />
       <module name="baekjoon" />
@@ -382,6 +327,13 @@
     </configuration>
     <configuration name="소수찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="소수찾기" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="경사로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="경사로" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -457,6 +409,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="셔틀버스" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="셔틀버스" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="태어난김에세계일주" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="태어난김에세계일주" />
       <module name="baekjoon" />
@@ -506,13 +465,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="완주하지못한선수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="완주하지못한선수" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="땅따먹기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="땅따먹기" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="전력망을둘로나누기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="전력망을둘로나누기" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="이진트리의최소공통조상" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="이진트리의최소공통조상" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="연구소" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="연구소" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_4485" />
         <item itemvalue="Application.BOJ_1655" />
         <item itemvalue="Application.BOJ_4195" />
         <item itemvalue="Application.BOJ_11650" />
         <item itemvalue="Application.BOJ_16928" />
-        <item itemvalue="Application.BOJ_9881" />
       </list>
     </recent_temporary>
   </component>
@@ -581,14 +575,6 @@
       <workItem from="1758728782705" duration="15469000" />
       <workItem from="1760422542591" duration="13843000" />
       <workItem from="1760899417518" duration="393000" />
-    </task>
-    <task id="LOCAL-00005" summary="solved: programmers - 자물쇠와 열쇠">
-      <option name="closed" value="true" />
-      <created>1743937421863</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1743937421863</updated>
     </task>
     <task id="LOCAL-00006" summary="solved: baekjoon_1699 - 제곱수의 합">
       <option name="closed" value="true" />
@@ -974,14 +960,21 @@
       <option name="project" value="LOCAL" />
       <updated>1762193513903</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="solved: baekjoon_1655 - 가운데를 말해요">
+      <option name="closed" value="true" />
+      <created>1762617477566</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1762617477566</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved: backjoon_7576 - 토마토" />
     <MESSAGE value="solved: 밀린 문제 올리기" />
     <MESSAGE value="solved: baekjoon - 20191 줄임말" />
     <MESSAGE value="solved: programmers - 경주로 건설" />
@@ -1006,7 +999,8 @@
     <MESSAGE value="feat: baekjoon_16928 - 뱀과 사다리 게임" />
     <MESSAGE value="feat: baekjoon_11650 - 좌표 정렬하기" />
     <MESSAGE value="solved: baekjoon_4195 - 친구 네트워크" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_4195 - 친구 네트워크" />
+    <MESSAGE value="solved: baekjoon_1655 - 가운데를 말해요" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_1655 - 가운데를 말해요" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
