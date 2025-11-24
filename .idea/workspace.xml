@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_31965 - 회의 장소">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: SWEA_23005 - 회문 만들기">
+      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_16496.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -578,14 +578,6 @@
       <workItem from="1760422542591" duration="13843000" />
       <workItem from="1760899417518" duration="393000" />
     </task>
-    <task id="LOCAL-00011" summary="solved: programmers - 영어 끝말잇기">
-      <option name="closed" value="true" />
-      <created>1744764455596</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1744764455596</updated>
-    </task>
     <task id="LOCAL-00012" summary="solved: programmers - 소수 만들기">
       <option name="closed" value="true" />
       <created>1744964887900</created>
@@ -970,14 +962,21 @@
       <option name="project" value="LOCAL" />
       <updated>1763406555886</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="solved: SWEA_23005 - 회문 만들기">
+      <option name="closed" value="true" />
+      <created>1763959140525</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1763959140525</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved: programmers - 산모양타일링" />
     <MESSAGE value="solved: baekjoon - 땅따먹기" />
     <MESSAGE value="solved: baekjoon - 사라지는 발판" />
     <MESSAGE value="solved: baekjoon - 로봇조종하기" />
@@ -1002,7 +1001,8 @@
     <MESSAGE value="solved: programmers - 보행자 천국" />
     <MESSAGE value="solved: baekjoon_17485 - 진우의 달 여행" />
     <MESSAGE value="solved: baekjoon_31965 - 회의 장소" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_31965 - 회의 장소" />
+    <MESSAGE value="solved: SWEA_23005 - 회문 만들기" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: SWEA_23005 - 회문 만들기" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
