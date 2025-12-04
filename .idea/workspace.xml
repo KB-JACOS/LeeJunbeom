@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_9375 - 패션왕 신해빈">
-      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_2461.java" afterDir="false" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_2461 - 대표 선수">
+      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_10800.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.A와B.executor": "Run",
+    "Application.BOJ_10800.executor": "Run",
     "Application.BOJ_11650.executor": "Run",
     "Application.BOJ_1655.executor": "Run",
     "Application.BOJ_16928.executor": "Run",
@@ -155,9 +156,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_2461">
-    <configuration name="BOJ_17485" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_17485" />
+  <component name="RunManager" selected="Application.BOJ_10800">
+    <configuration name="BOJ_10800" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_10800" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -494,11 +495,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_10800" />
         <item itemvalue="Application.BOJ_2461" />
         <item itemvalue="Application.BOJ_9375" />
         <item itemvalue="Application.BOJ_1753" />
         <item itemvalue="Application.BOJ_31965" />
-        <item itemvalue="Application.BOJ_17485" />
       </list>
     </recent_temporary>
   </component>
@@ -567,14 +568,6 @@
       <workItem from="1758728782705" duration="15469000" />
       <workItem from="1760422542591" duration="13843000" />
       <workItem from="1760899417518" duration="393000" />
-    </task>
-    <task id="LOCAL-00016" summary="solved: programmers - 단어 변환">
-      <option name="closed" value="true" />
-      <created>1745564875727</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1745564875727</updated>
     </task>
     <task id="LOCAL-00017" summary="solved: baekjoon_2167 - 2차원 배열의 합">
       <option name="closed" value="true" />
@@ -960,14 +953,21 @@
       <option name="project" value="LOCAL" />
       <updated>1764521866611</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="solved: baekjoon_2461 - 대표 선수">
+      <option name="closed" value="true" />
+      <created>1764590131062</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1764590131062</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved: baekjoon - 평범한 배낭" />
     <MESSAGE value="solved: baekjoon - 알약" />
     <MESSAGE value="solved: baekjoon - 경사로" />
     <MESSAGE value="solved: baekjoon - 두 원" />
@@ -992,7 +992,8 @@
     <MESSAGE value="solved: BOJ_1753 - 최단경로" />
     <MESSAGE value="solved: programmers - 매출 하락 최소화" />
     <MESSAGE value="solved: baekjoon_9375 - 패션왕 신해빈" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_9375 - 패션왕 신해빈" />
+    <MESSAGE value="solved: baekjoon_2461 - 대표 선수" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_2461 - 대표 선수" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
