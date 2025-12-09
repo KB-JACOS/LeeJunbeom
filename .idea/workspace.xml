@@ -43,108 +43,108 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.A와B.executor": "Run",
-    "Application.BOJ_10800.executor": "Run",
-    "Application.BOJ_11650.executor": "Run",
-    "Application.BOJ_1655.executor": "Run",
-    "Application.BOJ_16928.executor": "Run",
-    "Application.BOJ_1715.executor": "Run",
-    "Application.BOJ_17485.executor": "Run",
-    "Application.BOJ_1753.executor": "Run",
-    "Application.BOJ_2461.executor": "Run",
-    "Application.BOJ_31965.executor": "Run",
-    "Application.BOJ_4195.executor": "Run",
-    "Application.BOJ_4485.executor": "Run",
-    "Application.BOJ_9375.executor": "Run",
-    "Application.BOJ_9881.executor": "Run",
-    "Application.ListOfUniqueNumbers.executor": "Run",
-    "Application.NetworkDelayTime.executor": "Run",
-    "Application.PathWithMaximumProbability.executor": "Run",
-    "Application.RGB거리.executor": "Run",
-    "Application.Z.executor": "Run",
-    "Application.감염된폴더.executor": "Run",
-    "Application.경사로.executor": "Run",
-    "Application.경주로건설.executor": "Run",
-    "Application.단속카메라.executor": "Run",
-    "Application.도서관.executor": "Run",
-    "Application.동전1.executor": "Run",
-    "Application.두원.executor": "Run",
-    "Application.디스크컨트롤러.executor": "Run",
-    "Application.땅따먹기.executor": "Run",
-    "Application.로봇청소기.executor": "Run",
-    "Application.봉인된주문.executor": "Run",
-    "Application.부분합.executor": "Run",
-    "Application.빗물.executor": "Run",
-    "Application.사라지는발판.executor": "Run",
-    "Application.산모양타일링.executor": "Run",
-    "Application.선수과목.executor": "Run",
-    "Application.세용액.executor": "Run",
-    "Application.소수찾기.executor": "Run",
-    "Application.연구소.executor": "Run",
-    "Application.이진트리의최대깊이.executor": "Run",
-    "Application.이진트리의최소공통조상.executor": "Run",
-    "Application.입국심사.executor": "Run",
-    "Application.저울.executor": "Run",
-    "Application.전깃줄.executor": "Run",
-    "Application.전력망을둘로나누기.executor": "Run",
-    "Application.정수삼각형.executor": "Run",
-    "Application.줄임말_20191번.executor": "Run",
-    "Application.치킨배달하기.executor": "Run",
-    "Application.키순서.executor": "Run",
-    "Application.타겟넘버.executor": "Run",
-    "Application.태어난김에세계일주.executor": "Run",
-    "Application.테스트.executor": "Run",
-    "Application.토마토.executor": "Run",
-    "Application.평범한배낭.executor": "Run",
-    "Application.폴짝폴짝.executor": "Run",
-    "Application.합승택시요금.executor": "Run",
-    "Application.회사문화1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/haruma/Desktop/baekjoon",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.CoinChange.executor": "Run",
-    "애플리케이션.Editor.executor": "Run",
-    "애플리케이션.KeyAndRooms.executor": "Run",
-    "애플리케이션.Longest.executor": "Run",
-    "애플리케이션.Main.executor": "Run",
-    "애플리케이션.TwoDegreeArraySum.executor": "Run",
-    "애플리케이션.가장긴증가하는부분수열.executor": "Run",
-    "애플리케이션.가장먼노드.executor": "Run",
-    "애플리케이션.거리두기확인하기.executor": "Run",
-    "애플리케이션.괄호제거.executor": "Run",
-    "애플리케이션.구준표의조약돌.executor": "Run",
-    "애플리케이션.나이트의이동.executor": "Run",
-    "애플리케이션.단어변환.executor": "Run",
-    "애플리케이션.랜선자르기.executor": "Run",
-    "애플리케이션.미로탈출.executor": "Run",
-    "애플리케이션.미로탐색.executor": "Run",
-    "애플리케이션.보물지도.executor": "Run",
-    "애플리케이션.셔틀버스.executor": "Run",
-    "애플리케이션.소수만들기.executor": "Run",
-    "애플리케이션.신고결과받기.executor": "Run",
-    "애플리케이션.영어끝말잇기.executor": "Run",
-    "애플리케이션.완주하지못한선수.executor": "Run",
-    "애플리케이션.응급자최단거리.executor": "Run",
-    "애플리케이션.이분그래프.executor": "Run",
-    "애플리케이션.자물쇠와열쇠.executor": "Run",
-    "애플리케이션.제곱수의합.executor": "Run",
-    "애플리케이션.종이접기.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.A와B.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_10800.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_11650.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_1655.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_16928.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_1715.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_17485.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_1753.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_2461.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_31965.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_4195.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_4485.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_9375.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_9881.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListOfUniqueNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NetworkDelayTime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PathWithMaximumProbability.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RGB거리.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Z.executor&quot;: &quot;Run&quot;,
+    &quot;Application.감염된폴더.executor&quot;: &quot;Run&quot;,
+    &quot;Application.경사로.executor&quot;: &quot;Run&quot;,
+    &quot;Application.경주로건설.executor&quot;: &quot;Run&quot;,
+    &quot;Application.단속카메라.executor&quot;: &quot;Run&quot;,
+    &quot;Application.도서관.executor&quot;: &quot;Run&quot;,
+    &quot;Application.동전1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.두원.executor&quot;: &quot;Run&quot;,
+    &quot;Application.디스크컨트롤러.executor&quot;: &quot;Run&quot;,
+    &quot;Application.땅따먹기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.로봇청소기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.봉인된주문.executor&quot;: &quot;Run&quot;,
+    &quot;Application.부분합.executor&quot;: &quot;Run&quot;,
+    &quot;Application.빗물.executor&quot;: &quot;Run&quot;,
+    &quot;Application.사라지는발판.executor&quot;: &quot;Run&quot;,
+    &quot;Application.산모양타일링.executor&quot;: &quot;Run&quot;,
+    &quot;Application.선수과목.executor&quot;: &quot;Run&quot;,
+    &quot;Application.세용액.executor&quot;: &quot;Run&quot;,
+    &quot;Application.소수찾기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.연구소.executor&quot;: &quot;Run&quot;,
+    &quot;Application.이진트리의최대깊이.executor&quot;: &quot;Run&quot;,
+    &quot;Application.이진트리의최소공통조상.executor&quot;: &quot;Run&quot;,
+    &quot;Application.입국심사.executor&quot;: &quot;Run&quot;,
+    &quot;Application.저울.executor&quot;: &quot;Run&quot;,
+    &quot;Application.전깃줄.executor&quot;: &quot;Run&quot;,
+    &quot;Application.전력망을둘로나누기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.정수삼각형.executor&quot;: &quot;Run&quot;,
+    &quot;Application.줄임말_20191번.executor&quot;: &quot;Run&quot;,
+    &quot;Application.치킨배달하기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.키순서.executor&quot;: &quot;Run&quot;,
+    &quot;Application.타겟넘버.executor&quot;: &quot;Run&quot;,
+    &quot;Application.태어난김에세계일주.executor&quot;: &quot;Run&quot;,
+    &quot;Application.테스트.executor&quot;: &quot;Run&quot;,
+    &quot;Application.토마토.executor&quot;: &quot;Run&quot;,
+    &quot;Application.평범한배낭.executor&quot;: &quot;Run&quot;,
+    &quot;Application.폴짝폴짝.executor&quot;: &quot;Run&quot;,
+    &quot;Application.합승택시요금.executor&quot;: &quot;Run&quot;,
+    &quot;Application.회사문화1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/haruma/Desktop/baekjoon&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.CoinChange.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Editor.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.KeyAndRooms.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Longest.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.TwoDegreeArraySum.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.가장긴증가하는부분수열.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.가장먼노드.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.거리두기확인하기.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.괄호제거.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.구준표의조약돌.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.나이트의이동.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.단어변환.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.랜선자르기.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.미로탈출.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.미로탐색.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.보물지도.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.셔틀버스.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.소수만들기.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.신고결과받기.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.영어끝말잇기.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.완주하지못한선수.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.응급자최단거리.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.이분그래프.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.자물쇠와열쇠.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.제곱수의합.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.종이접기.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -157,6 +157,13 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.BOJ_10800">
+    <configuration name="저울" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="저울" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BOJ_10800" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ_10800" />
       <module name="baekjoon" />
@@ -187,69 +194,6 @@
     </configuration>
     <configuration name="BOJ_9375" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ_9375" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="저울" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="저울" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="키순서" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="키순서" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="이진트리의최대깊이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="이진트리의최대깊이" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="영어끝말잇기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="영어끝말잇기" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="구준표의조약돌" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="구준표의조약돌" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="미로탈출" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="미로탈출" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="로봇청소기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="로봇청소기" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="도서관" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="도서관" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="미로탐색" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="미로탐색" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -325,6 +269,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="키순서" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="키순서" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="입국심사" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="입국심사" />
       <module name="baekjoon" />
@@ -390,6 +341,13 @@
     </configuration>
     <configuration name="두원" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="두원" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="이진트리의최대깊이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="이진트리의최대깊이" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -465,6 +423,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="영어끝말잇기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="영어끝말잇기" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="경사로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="경사로" />
       <module name="baekjoon" />
@@ -488,6 +453,41 @@
     </configuration>
     <configuration name="이분그래프" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="이분그래프" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="구준표의조약돌" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="구준표의조약돌" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="미로탈출" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="미로탈출" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="로봇청소기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="로봇청소기" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="도서관" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="도서관" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="미로탐색" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="미로탐색" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
