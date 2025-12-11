@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_11967 - 불켜기">
-      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_1025.java" afterDir="false" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_1025 - 제곱수 찾기">
+      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_1016.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/src/BOJ_9655.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/src/BOJ_9655.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,108 +44,109 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.A와B.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BOJ_10800.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BOJ_11650.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BOJ_1655.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BOJ_16928.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BOJ_1715.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BOJ_17485.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BOJ_1753.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BOJ_2461.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BOJ_31965.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BOJ_4195.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BOJ_4485.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BOJ_9375.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BOJ_9881.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ListOfUniqueNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NetworkDelayTime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PathWithMaximumProbability.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RGB거리.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Z.executor&quot;: &quot;Run&quot;,
-    &quot;Application.감염된폴더.executor&quot;: &quot;Run&quot;,
-    &quot;Application.경사로.executor&quot;: &quot;Run&quot;,
-    &quot;Application.경주로건설.executor&quot;: &quot;Run&quot;,
-    &quot;Application.단속카메라.executor&quot;: &quot;Run&quot;,
-    &quot;Application.도서관.executor&quot;: &quot;Run&quot;,
-    &quot;Application.동전1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.두원.executor&quot;: &quot;Run&quot;,
-    &quot;Application.디스크컨트롤러.executor&quot;: &quot;Run&quot;,
-    &quot;Application.땅따먹기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.로봇청소기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.봉인된주문.executor&quot;: &quot;Run&quot;,
-    &quot;Application.부분합.executor&quot;: &quot;Run&quot;,
-    &quot;Application.빗물.executor&quot;: &quot;Run&quot;,
-    &quot;Application.사라지는발판.executor&quot;: &quot;Run&quot;,
-    &quot;Application.산모양타일링.executor&quot;: &quot;Run&quot;,
-    &quot;Application.선수과목.executor&quot;: &quot;Run&quot;,
-    &quot;Application.세용액.executor&quot;: &quot;Run&quot;,
-    &quot;Application.소수찾기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.연구소.executor&quot;: &quot;Run&quot;,
-    &quot;Application.이진트리의최대깊이.executor&quot;: &quot;Run&quot;,
-    &quot;Application.이진트리의최소공통조상.executor&quot;: &quot;Run&quot;,
-    &quot;Application.입국심사.executor&quot;: &quot;Run&quot;,
-    &quot;Application.저울.executor&quot;: &quot;Run&quot;,
-    &quot;Application.전깃줄.executor&quot;: &quot;Run&quot;,
-    &quot;Application.전력망을둘로나누기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.정수삼각형.executor&quot;: &quot;Run&quot;,
-    &quot;Application.줄임말_20191번.executor&quot;: &quot;Run&quot;,
-    &quot;Application.치킨배달하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.키순서.executor&quot;: &quot;Run&quot;,
-    &quot;Application.타겟넘버.executor&quot;: &quot;Run&quot;,
-    &quot;Application.태어난김에세계일주.executor&quot;: &quot;Run&quot;,
-    &quot;Application.테스트.executor&quot;: &quot;Run&quot;,
-    &quot;Application.토마토.executor&quot;: &quot;Run&quot;,
-    &quot;Application.평범한배낭.executor&quot;: &quot;Run&quot;,
-    &quot;Application.폴짝폴짝.executor&quot;: &quot;Run&quot;,
-    &quot;Application.합승택시요금.executor&quot;: &quot;Run&quot;,
-    &quot;Application.회사문화1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/haruma/Desktop/baekjoon&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;애플리케이션.CoinChange.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Editor.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.KeyAndRooms.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Longest.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.TwoDegreeArraySum.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.가장긴증가하는부분수열.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.가장먼노드.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.거리두기확인하기.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.괄호제거.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.구준표의조약돌.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.나이트의이동.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.단어변환.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.랜선자르기.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.미로탈출.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.미로탐색.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.보물지도.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.셔틀버스.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.소수만들기.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.신고결과받기.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.영어끝말잇기.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.완주하지못한선수.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.응급자최단거리.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.이분그래프.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.자물쇠와열쇠.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.제곱수의합.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.종이접기.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.A와B.executor": "Run",
+    "Application.BOJ_1016.executor": "Run",
+    "Application.BOJ_10800.executor": "Run",
+    "Application.BOJ_11650.executor": "Run",
+    "Application.BOJ_1655.executor": "Run",
+    "Application.BOJ_16928.executor": "Run",
+    "Application.BOJ_1715.executor": "Run",
+    "Application.BOJ_17485.executor": "Run",
+    "Application.BOJ_1753.executor": "Run",
+    "Application.BOJ_2461.executor": "Run",
+    "Application.BOJ_31965.executor": "Run",
+    "Application.BOJ_4195.executor": "Run",
+    "Application.BOJ_4485.executor": "Run",
+    "Application.BOJ_9375.executor": "Run",
+    "Application.BOJ_9881.executor": "Run",
+    "Application.ListOfUniqueNumbers.executor": "Run",
+    "Application.NetworkDelayTime.executor": "Run",
+    "Application.PathWithMaximumProbability.executor": "Run",
+    "Application.RGB거리.executor": "Run",
+    "Application.Z.executor": "Run",
+    "Application.감염된폴더.executor": "Run",
+    "Application.경사로.executor": "Run",
+    "Application.경주로건설.executor": "Run",
+    "Application.단속카메라.executor": "Run",
+    "Application.도서관.executor": "Run",
+    "Application.동전1.executor": "Run",
+    "Application.두원.executor": "Run",
+    "Application.디스크컨트롤러.executor": "Run",
+    "Application.땅따먹기.executor": "Run",
+    "Application.로봇청소기.executor": "Run",
+    "Application.봉인된주문.executor": "Run",
+    "Application.부분합.executor": "Run",
+    "Application.빗물.executor": "Run",
+    "Application.사라지는발판.executor": "Run",
+    "Application.산모양타일링.executor": "Run",
+    "Application.선수과목.executor": "Run",
+    "Application.세용액.executor": "Run",
+    "Application.소수찾기.executor": "Run",
+    "Application.연구소.executor": "Run",
+    "Application.이진트리의최대깊이.executor": "Run",
+    "Application.이진트리의최소공통조상.executor": "Run",
+    "Application.입국심사.executor": "Run",
+    "Application.저울.executor": "Run",
+    "Application.전깃줄.executor": "Run",
+    "Application.전력망을둘로나누기.executor": "Run",
+    "Application.정수삼각형.executor": "Run",
+    "Application.줄임말_20191번.executor": "Run",
+    "Application.치킨배달하기.executor": "Run",
+    "Application.키순서.executor": "Run",
+    "Application.타겟넘버.executor": "Run",
+    "Application.태어난김에세계일주.executor": "Run",
+    "Application.테스트.executor": "Run",
+    "Application.토마토.executor": "Run",
+    "Application.평범한배낭.executor": "Run",
+    "Application.폴짝폴짝.executor": "Run",
+    "Application.합승택시요금.executor": "Run",
+    "Application.회사문화1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/haruma/Desktop/baekjoon",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.CoinChange.executor": "Run",
+    "애플리케이션.Editor.executor": "Run",
+    "애플리케이션.KeyAndRooms.executor": "Run",
+    "애플리케이션.Longest.executor": "Run",
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.TwoDegreeArraySum.executor": "Run",
+    "애플리케이션.가장긴증가하는부분수열.executor": "Run",
+    "애플리케이션.가장먼노드.executor": "Run",
+    "애플리케이션.거리두기확인하기.executor": "Run",
+    "애플리케이션.괄호제거.executor": "Run",
+    "애플리케이션.구준표의조약돌.executor": "Run",
+    "애플리케이션.나이트의이동.executor": "Run",
+    "애플리케이션.단어변환.executor": "Run",
+    "애플리케이션.랜선자르기.executor": "Run",
+    "애플리케이션.미로탈출.executor": "Run",
+    "애플리케이션.미로탐색.executor": "Run",
+    "애플리케이션.보물지도.executor": "Run",
+    "애플리케이션.셔틀버스.executor": "Run",
+    "애플리케이션.소수만들기.executor": "Run",
+    "애플리케이션.신고결과받기.executor": "Run",
+    "애플리케이션.영어끝말잇기.executor": "Run",
+    "애플리케이션.완주하지못한선수.executor": "Run",
+    "애플리케이션.응급자최단거리.executor": "Run",
+    "애플리케이션.이분그래프.executor": "Run",
+    "애플리케이션.자물쇠와열쇠.executor": "Run",
+    "애플리케이션.제곱수의합.executor": "Run",
+    "애플리케이션.종이접기.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -155,9 +158,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_10800">
-    <configuration name="저울" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="저울" />
+  <component name="RunManager" selected="Application.BOJ_1016">
+    <configuration name="BOJ_1016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_1016" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -179,13 +182,6 @@
     </configuration>
     <configuration name="BOJ_2461" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ_2461" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ_31965" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_31965" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -494,11 +490,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_1016" />
         <item itemvalue="Application.BOJ_10800" />
         <item itemvalue="Application.BOJ_2461" />
         <item itemvalue="Application.BOJ_9375" />
         <item itemvalue="Application.BOJ_1753" />
-        <item itemvalue="Application.BOJ_31965" />
       </list>
     </recent_temporary>
   </component>
@@ -567,14 +563,6 @@
       <workItem from="1758728782705" duration="15469000" />
       <workItem from="1760422542591" duration="13843000" />
       <workItem from="1760899417518" duration="393000" />
-    </task>
-    <task id="LOCAL-00018" summary="solved: baekjoon_15831 - 준표의 조약돌">
-      <option name="closed" value="true" />
-      <created>1745974117782</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1745974117782</updated>
     </task>
     <task id="LOCAL-00019" summary="solved: programmers - 가장 먼 노드">
       <option name="closed" value="true" />
@@ -960,14 +948,21 @@
       <option name="project" value="LOCAL" />
       <updated>1765310289374</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="solved: baekjoon_1025 - 제곱수 찾기">
+      <option name="closed" value="true" />
+      <created>1765381827184</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1765381827184</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved: baekjoon - 경사로" />
     <MESSAGE value="solved: baekjoon - 두 원" />
     <MESSAGE value="solved: baekjoon - A 와 B" />
     <MESSAGE value="solved: baekjoon - 정수삼각형" />
@@ -992,7 +987,8 @@
     <MESSAGE value="solved: baekjoon_9375 - 패션왕 신해빈" />
     <MESSAGE value="solved: baekjoon_2461 - 대표 선수" />
     <MESSAGE value="solved: baekjoon_11967 - 불켜기" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_11967 - 불켜기" />
+    <MESSAGE value="solved: baekjoon_1025 - 제곱수 찾기" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_1025 - 제곱수 찾기" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

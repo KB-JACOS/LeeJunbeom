@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class Main {
+public class BOJ_9655 {
     static int N,x[][], max = 0;
 
     public static void main(String args[])throws IOException {
