@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_1515 - 수 이어 쓰기">
-      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_2513.java" afterDir="false" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_2513 - 통학버스">
+      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_15989.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -539,14 +539,6 @@
       <workItem from="1760422542591" duration="13843000" />
       <workItem from="1760899417518" duration="393000" />
     </task>
-    <task id="LOCAL-00023" summary="solved: programmers - 응급자 최단거리">
-      <option name="closed" value="true" />
-      <created>1747039617115</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1747039617115</updated>
-    </task>
     <task id="LOCAL-00024" summary="solved: programmers - 미로 탈출">
       <option name="closed" value="true" />
       <created>1747039630950</created>
@@ -931,14 +923,21 @@
       <option name="project" value="LOCAL" />
       <updated>1767794621795</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="solved: baekjoon_2513 - 통학버스">
+      <option name="closed" value="true" />
+      <created>1767868978919</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1767868978919</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="refactor: baekjoon - 세 용액" />
     <MESSAGE value="refactor: baekjoon - 빗물" />
     <MESSAGE value="feat: baekjoon - 모양정돈" />
     <MESSAGE value="feat: baekjoon_9881 - Ski Course Design" />
@@ -963,7 +962,8 @@
     <MESSAGE value="solved: baekjoon_2688 - 숫자고르기" />
     <MESSAGE value="solved: baekjoon_2493 - 탑" />
     <MESSAGE value="solved: baekjoon_1515 - 수 이어 쓰기" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_1515 - 수 이어 쓰기" />
+    <MESSAGE value="solved: baekjoon_2513 - 통학버스" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_2513 - 통학버스" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
