@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_2632 - 피자판매">
-      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_22251.java" afterDir="false" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_22251 - 빌런 호석">
+      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_1234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_2631.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +50,7 @@
     "Application.BOJ_1016.executor": "Run",
     "Application.BOJ_10800.executor": "Run",
     "Application.BOJ_11650.executor": "Run",
+    "Application.BOJ_1234.executor": "Run",
     "Application.BOJ_1515.executor": "Run",
     "Application.BOJ_1655.executor": "Run",
     "Application.BOJ_16928.executor": "Run",
@@ -59,6 +61,7 @@
     "Application.BOJ_2461.executor": "Run",
     "Application.BOJ_2493.executor": "Run",
     "Application.BOJ_2513.executor": "Run",
+    "Application.BOJ_2631.executor": "Run",
     "Application.BOJ_2632.executor": "Run",
     "Application.BOJ_2668.executor": "Run",
     "Application.BOJ_31965.executor": "Run",
@@ -164,9 +167,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_22251">
-    <configuration name="BOJ_1515" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_1515" />
+  <component name="RunManager" selected="Application.BOJ_2631">
+    <configuration name="BOJ_1234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_1234" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -179,8 +182,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_2513" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_2513" />
+    <configuration name="BOJ_2631" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_2631" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -454,11 +457,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_2631" />
+        <item itemvalue="Application.BOJ_1234" />
         <item itemvalue="Application.BOJ_22251" />
         <item itemvalue="Application.BOJ_2632" />
         <item itemvalue="Application.SW_1249" />
-        <item itemvalue="Application.BOJ_2513" />
-        <item itemvalue="Application.BOJ_1515" />
       </list>
     </recent_temporary>
   </component>
@@ -527,14 +530,6 @@
       <workItem from="1758728782705" duration="15469000" />
       <workItem from="1760422542591" duration="13843000" />
       <workItem from="1760899417518" duration="393000" />
-    </task>
-    <task id="LOCAL-00028" summary="solved: backjoon_7576 - 토마토">
-      <option name="closed" value="true" />
-      <created>1756954172733</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1756954172733</updated>
     </task>
     <task id="LOCAL-00029" summary="solved: 밀린 문제 올리기">
       <option name="closed" value="true" />
@@ -920,14 +915,21 @@
       <option name="project" value="LOCAL" />
       <updated>1769339178606</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="solved: baekjoon_22251 - 빌런 호석">
+      <option name="closed" value="true" />
+      <created>1769607029330</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1769607029330</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: baekjoon_11650 - 좌표 정렬하기" />
     <MESSAGE value="solved: baekjoon_4195 - 친구 네트워크" />
     <MESSAGE value="solved: baekjoon_1655 - 가운데를 말해요" />
     <MESSAGE value="solved: baekjoon_4485 - 녹색 옷 입은 애가 젤다지?" />
@@ -952,7 +954,8 @@
     <MESSAGE value="solved: SWEA_1249 - 보급로" />
     <MESSAGE value="solved: baekjoon_20437 - 문자열 게임 2" />
     <MESSAGE value="solved: baekjoon_2632 - 피자판매" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_2632 - 피자판매" />
+    <MESSAGE value="solved: baekjoon_22251 - 빌런 호석" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_22251 - 빌런 호석" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
