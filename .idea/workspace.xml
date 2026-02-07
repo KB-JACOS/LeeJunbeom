@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_22251 - 빌런 호석">
-      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_1234.java" afterDir="false" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: baekjoon_1234 - 크리스마스 트리">
       <change afterPath="$PROJECT_DIR$/백준/src/BOJ_2631.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -531,14 +530,6 @@
       <workItem from="1760422542591" duration="13843000" />
       <workItem from="1760899417518" duration="393000" />
     </task>
-    <task id="LOCAL-00029" summary="solved: 밀린 문제 올리기">
-      <option name="closed" value="true" />
-      <created>1756954203787</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1756954203787</updated>
-    </task>
     <task id="LOCAL-00030" summary="solved: baekjoon - 20191 줄임말">
       <option name="closed" value="true" />
       <created>1757928639857</created>
@@ -923,14 +914,21 @@
       <option name="project" value="LOCAL" />
       <updated>1769607029330</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="solved: baekjoon_1234 - 크리스마스 트리">
+      <option name="closed" value="true" />
+      <created>1770115706327</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1770115706327</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved: baekjoon_4195 - 친구 네트워크" />
     <MESSAGE value="solved: baekjoon_1655 - 가운데를 말해요" />
     <MESSAGE value="solved: baekjoon_4485 - 녹색 옷 입은 애가 젤다지?" />
     <MESSAGE value="solved: baekjoon_1715 - 카드 정렬하기" />
@@ -955,7 +953,8 @@
     <MESSAGE value="solved: baekjoon_20437 - 문자열 게임 2" />
     <MESSAGE value="solved: baekjoon_2632 - 피자판매" />
     <MESSAGE value="solved: baekjoon_22251 - 빌런 호석" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_22251 - 빌런 호석" />
+    <MESSAGE value="solved: baekjoon_1234 - 크리스마스 트리" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: baekjoon_1234 - 크리스마스 트리" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
