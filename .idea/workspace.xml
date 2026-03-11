@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: Programmers - 비밀코드 해독">
-      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_17471.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/src/Programmers_압축.java" afterDir="false" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: Programmers - 압축">
+      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_11003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_1202.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "Application.BOJ_1016.executor": "Run",
     "Application.BOJ_10800.executor": "Run",
     "Application.BOJ_11650.executor": "Run",
+    "Application.BOJ_1202.executor": "Run",
     "Application.BOJ_1234.executor": "Run",
     "Application.BOJ_1515.executor": "Run",
     "Application.BOJ_1655.executor": "Run",
@@ -169,7 +170,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_17471">
+  <component name="RunManager" selected="Application.BOJ_1202">
+    <configuration name="BOJ_1202" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_1202" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BOJ_1234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ_1234" />
       <module name="baekjoon" />
@@ -184,13 +192,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_22251" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_22251" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="BOJ_2616" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ_2616" />
       <module name="baekjoon" />
@@ -200,69 +201,6 @@
     </configuration>
     <configuration name="BOJ_2631" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ_2631" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="입국심사" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="입국심사" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="로봇청소기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="로봇청소기" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="이분그래프" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="이분그래프" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="구준표의조약돌" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="구준표의조약돌" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="테스트" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="미로탈출" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="미로탈출" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="제곱수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="제곱수의합" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="도서관" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="도서관" />
-      <module name="baekjoon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="미로탐색" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="미로탐색" />
       <module name="baekjoon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -338,6 +276,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="로봇청소기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="로봇청소기" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="전력망을둘로나누기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="전력망을둘로나누기" />
       <module name="baekjoon" />
@@ -408,6 +353,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="이분그래프" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="이분그래프" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="키순서" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="키순서" />
       <module name="baekjoon" />
@@ -443,13 +395,55 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="구준표의조약돌" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="구준표의조약돌" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="테스트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="테스트" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="미로탈출" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="미로탈출" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="제곱수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="제곱수의합" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="도서관" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="도서관" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="미로탐색" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="미로탐색" />
+      <module name="baekjoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_1202" />
         <item itemvalue="Application.BOJ_17471" />
         <item itemvalue="Application.BOJ_2616" />
         <item itemvalue="Application.BOJ_2631" />
         <item itemvalue="Application.BOJ_1234" />
-        <item itemvalue="Application.BOJ_22251" />
       </list>
     </recent_temporary>
   </component>
@@ -518,22 +512,6 @@
       <workItem from="1758728782705" duration="15469000" />
       <workItem from="1760422542591" duration="13843000" />
       <workItem from="1760899417518" duration="393000" />
-    </task>
-    <task id="LOCAL-00034" summary="solved: programmers - 단속카메라">
-      <option name="closed" value="true" />
-      <created>1758516756290</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1758516756290</updated>
-    </task>
-    <task id="LOCAL-00035" summary="solved: programmers - 산모양타일링">
-      <option name="closed" value="true" />
-      <created>1758786269292</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1758786269292</updated>
     </task>
     <task id="LOCAL-00036" summary="solved: baekjoon - 땅따먹기">
       <option name="closed" value="true" />
@@ -911,15 +889,29 @@
       <option name="project" value="LOCAL" />
       <updated>1772100468741</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="solved: baekjoon_17471 - 게리맨더링">
+      <option name="closed" value="true" />
+      <created>1772787598811</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1772787598811</updated>
+    </task>
+    <task id="LOCAL-00084" summary="solved: Programmers - 압축">
+      <option name="closed" value="true" />
+      <created>1772787617165</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1772787617165</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved: baekjoon_17485 - 진우의 달 여행" />
-    <MESSAGE value="solved: baekjoon_31965 - 회의 장소" />
     <MESSAGE value="solved: SWEA_23005 - 회문 만들기" />
     <MESSAGE value="solved: BOJ_16496 - 큰 수 만들기" />
     <MESSAGE value="solved: BOJ_1753 - 최단경로" />
@@ -943,7 +935,9 @@
     <MESSAGE value="solved: baekjoon_2616 - 소형 기관차" />
     <MESSAGE value="solved: baekjoon_10989 - 수 정렬하기" />
     <MESSAGE value="solved: Programmers - 비밀코드 해독" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: Programmers - 비밀코드 해독" />
+    <MESSAGE value="solved: baekjoon_17471 - 게리맨더링" />
+    <MESSAGE value="solved: Programmers - 압축" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: Programmers - 압축" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
