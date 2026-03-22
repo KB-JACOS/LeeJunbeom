@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: Baekjoon_11003 - 최솟값 찾기">
-      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_1202.java" afterDir="false" />
+    <list default="true" id="1c70177b-2fe9-46c4-95a0-cf6e9a5e4b10" name="변경" comment="solved: Baekjoon_1202 - 보석 도둑">
+      <change afterPath="$PROJECT_DIR$/백준/src/BOJ_7569.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -512,14 +512,6 @@
       <workItem from="1760422542591" duration="13843000" />
       <workItem from="1760899417518" duration="393000" />
     </task>
-    <task id="LOCAL-00037" summary="solved: baekjoon - 사라지는 발판">
-      <option name="closed" value="true" />
-      <created>1759985169025</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1759985169025</updated>
-    </task>
     <task id="LOCAL-00038" summary="solved: baekjoon - 로봇조종하기">
       <option name="closed" value="true" />
       <created>1759985241013</created>
@@ -904,14 +896,21 @@
       <option name="project" value="LOCAL" />
       <updated>1773225296637</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="solved: Baekjoon_1202 - 보석 도둑">
+      <option name="closed" value="true" />
+      <created>1774110424791</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1774110424791</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solved: BOJ_16496 - 큰 수 만들기" />
     <MESSAGE value="solved: BOJ_1753 - 최단경로" />
     <MESSAGE value="solved: programmers - 매출 하락 최소화" />
     <MESSAGE value="solved: baekjoon_9375 - 패션왕 신해빈" />
@@ -936,7 +935,8 @@
     <MESSAGE value="solved: baekjoon_17471 - 게리맨더링" />
     <MESSAGE value="solved: Programmers - 압축" />
     <MESSAGE value="solved: Baekjoon_11003 - 최솟값 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved: Baekjoon_11003 - 최솟값 찾기" />
+    <MESSAGE value="solved: Baekjoon_1202 - 보석 도둑" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved: Baekjoon_1202 - 보석 도둑" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
